@@ -1,7 +1,26 @@
 body {
-  background-color: aquamarine;
+  background-color: wheat;
 }
 
 h1 {
   text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.croissant {  
+  display: block;
+  max-width: 40%;
+  height: auto;
+}
+
+.link-group {
+
+}
+
+.link {
+  text-align: center;
+  text-decoration: none;
 }
