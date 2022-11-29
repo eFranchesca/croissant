@@ -16,13 +16,17 @@ img {
   max-width: 40%;
   display: block;
   height: auto;
+  margin: 250px auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border-radius: ;
 }
 
-.link-group {
-  margin-top: 20px;
-}
-
-.link {
+footer {
   text-align: center;
-  text-decoration: none;
+}
+
+footer a  {
+  margin: 0 10px;
+  color: hsl(132, 82%, 34%);
 }
